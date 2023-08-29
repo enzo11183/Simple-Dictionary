@@ -5,3 +5,4 @@ Detailed info can be found in odev3.pdf
 
 ***
 ![image](https://github.com/gulsoy83/SimpleDictionary/assets/46426033/47ac393f-0917-48bc-8087-4de9b9e9b290)
+![image](https://github.com/gulsoy83/Word-Dictionary/assets/46426033/b516df2f-ba67-455a-a550-1587ee117d85)
